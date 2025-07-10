@@ -1,4 +1,4 @@
-import { fetchNotes } from "@/lib/apiйй";
+import { fetchNotes } from "@/lib/api";
 import NotesClient from "./Notes.client";
 import { Tag } from "@/types/note";
 import { Metadata } from "next";
